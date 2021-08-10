@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...mamanet.js
 - 🤔 I’m looking for help with ...Arazel
 - 💬 Ask me about ...idk anything
-- 📫 How to reach me: ... [YouTube]{https://www.youtube.com/channel/UC-EvAR7grLRrLc8LA7Ysnjw}
+- 📫 How to reach me: ... [*YouTube*] { https://www.youtube.com/channel/UC-EvAR7grLRrLc8LA7Ysnjw }
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...Fuck ur Mother bitch
 -->
